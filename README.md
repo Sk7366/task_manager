@@ -59,6 +59,14 @@ task_manager/
 ```
 
 ---
+## Screenshots
+<img width="658" height="278" alt="Screenshot 2026-07-05 at 8 06 07 AM" src="https://github.com/user-attachments/assets/92aed1cd-b65b-4ee1-ad0e-3d34e03ba676" />
+<img width="529" height="199" alt="Screenshot 2026-07-05 at 8 05 42 AM" src="https://github.com/user-attachments/assets/58e81d2e-b72c-4698-952a-aebc73afdaf1" />
+<img width="291" height="192" alt="Screenshot 2026-07-05 at 8 05 57 AM" src="https://github.com/user-attachments/assets/8edf0b58-0036-44f0-8afa-df321f4efd32" />
+<img width="369" height="238" alt="Screenshot 2026-07-05 at 8 05 35 AM" src="https://github.com/user-attachments/assets/98c6313c-c41d-4721-bfcf-dbf9278f05a1" />
+
+---
+
 
 ## Getting Started
 
